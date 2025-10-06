@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amirali</h1>
 <h3 align="center">🐍 Python Developer | Open Source Enthusiast | Lifelong Learner</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=450&lines=🐍+Python+Developer;🤖+Discord+Bot+Creator;🧠+Sharing+Knowledge+Freely;🚀+Always+Learning+Something+New;💡+Turning+Ideas+Into+Code" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 🧠 About Me
