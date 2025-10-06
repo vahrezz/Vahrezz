@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Vahrezz&fontAlign=50&fontAlignY=40&color=0:00110d,100:003f2d&fontColor=00FF99&animation=twinkling&fontSize=60&desc=🐍%20Python%20%26%20Application%20Developer&descAlign=50&descAlignY=70" alt="Vahrezz Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Vahrezz&fontAlign=50&fontAlignY=40&fontSize=60&animation=fadeIn&color=gradient&customColorList=0,2,10,20,30,40,50,60,70,80,90,100&section=header&reversal=true&fontColor=00ffee&desc=🐍%20Python%20%26%20Application%20Developer&descAlign=50&descAlignY=70" alt="Vahrezz Animated Gradient Banner" />
 </p>
+
 
 
 
