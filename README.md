@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vahrezz</h1>
+<h3 align="center">🐍 Python Developer | Open Source Enthusiast | Lifelong Learner</h3>
 
-<!--
-**vahrezz/Vahrezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm AmirAli, though most people know me as Vahrezz — a passionate Python developer based in Iran. I’ve always believed that knowledge grows when shared, so I make it a goal to freely share what I learn with others, hoping to inspire and help fellow developers on their journeys.
+
+My adventure in programming began about five years ago, starting with Scratch, then exploring game development in Unity. Eventually, I realized my real passion lies in building practical and impactful applications that solve real-world problems. That realization led me to Python, and for the past two years, I’ve been working with it professionally — a decision I’m truly proud of.
+
+I love learning new technologies, exploring modern features, and staying up to date with the fast-paced tech world. Continuous improvement is my philosophy — I believe every new tool or concept learned adds another layer to what I can create.
+
+So far, I’ve developed several personal projects (which I’ll be sharing here soon) and also built tools and apps for small startups and individuals. Currently, I’m working on a Discord bot, which I’m very excited about.
+
+If my work or mindset resonates with you, I’d really appreciate your support or even just a friendly connection. Let’s grow together 🚀
+
+📫 You can find me on Discord as vahrezz
+---
+
+### 🧰 My Skills and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,discord,bots,git,github,vscode,linux,windows" /><br/>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,sqlite,mysql,docker,postman" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vahrezz&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vahrezz&theme=radical" height="150"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
+</p>
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
