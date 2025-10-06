@@ -39,7 +39,7 @@ If my work or mindset resonates with you, I’d really appreciate your support o
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
+  <a href="https://discordapp.com/users/817725791177408513"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
 </p>
 
 ---
