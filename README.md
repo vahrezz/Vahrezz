@@ -59,11 +59,17 @@ If my work or mindset resonates with you, I’d really appreciate your support o
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://discordapp.com/users/817725791177408513"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
+  <a href="https://discordapp.com/users/817725791177408513" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%2300ff99?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mr.vahrez/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
