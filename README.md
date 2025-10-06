@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Vahrezz&amp;fontSize=60&amp;fontAlign=50&amp;fontAlignY=40&amp;color=0:00ff99,100:00ccff&amp;fontColor=E6FFF2&amp;animation=twinkling&amp;desc=Python%20Application%20Developer&amp;descAlign=50&amp;descAlignY=70" alt="Vahrezz Banner Gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=✨%20Vahrezz%20✨&fontSize=65&fontAlign=50&fontAlignY=38&fontColor=00FFB2&color=0:00110d,50:003f2d,100:00ccff&stroke=00FF99&strokeWidth=1&animation=fadeIn&desc=🐍%20Python%20%7C%20Application%20Developer%20%7C%20Discord%20Bot%20Creator&descAlign=50&descAlignY=70&fontFamily=monospace" alt="Vahrezz Banner" />
 </p>
+
 
 
 
