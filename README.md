@@ -26,7 +26,7 @@
 
 
 
-### 🧠 About Me
+###  About Me
 
 I'm Amirali, though most people know me as Vahrezz — a passionate Python developer based in Iran. I’ve always believed that knowledge grows when shared, so I make it a goal to freely share what I learn with others, hoping to inspire and help fellow developers on their journeys.
 
@@ -36,12 +36,12 @@ I love learning new technologies, exploring modern features, and staying up to d
 
 So far, I’ve developed several personal projects (which I’ll be sharing here soon) and also built tools and apps for small startups and individuals. Currently, I’m working on a Discord bot, which I’m very excited about.
 
-If my work or mindset resonates with you, I’d really appreciate your support or even just a friendly connection. Let’s grow together 🚀
+If my work or mindset resonates with you, I’d really appreciate your support or even just a friendly connection. Let’s grow together 
 
-📫 You can find me on Discord as vahrezz
+
 ---
 
-### 🧰 My Skills and Tools
+###  My Skills and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,discord,bots,git,github,vscode,linux,windows,kali," /><br/>
@@ -50,7 +50,7 @@ If my work or mindset resonates with you, I’d really appreciate your support o
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vahrezz&show_icons=true&theme=radical" height="150"/>
@@ -59,7 +59,7 @@ If my work or mindset resonates with you, I’d really appreciate your support o
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 
 
@@ -79,4 +79,4 @@ If my work or mindset resonates with you, I’d really appreciate your support o
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+ *If you like my work, consider giving a star to my repositories!*
