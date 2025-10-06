@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0a0a0a&animated=true&hideDiscrim=true&borderRadius=15px&idleMessage=💤+Chilling+on+Discord&accentColor=00FF99" alt="Discord Presence" />
+  <img src="https://lanyard.cnrad.dev/api/817725791177408513?theme=dark&bg=0a0a0a&animated=true&hideDiscrim=true&borderRadius=15px&idleMessage=💤+Chilling+on+Discord&accentColor=00FF99" alt="Discord Presence" />
 </p>
 
 
