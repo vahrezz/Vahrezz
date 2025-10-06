@@ -5,6 +5,16 @@
 
 ---
 
+
+
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/817725791177408513?theme=dark&bg=0a0a0a&animated=true&hideDiscrim=true&borderRadius=15px&idleMessage=💤+Chilling+on+Discord&accentColor=00FF99" alt="Discord Presence" />
+</p>
+
+
+
+
 ### 🧠 About Me
 
 I'm Amirali, though most people know me as Vahrezz — a passionate Python developer based in Iran. I’ve always believed that knowledge grows when shared, so I make it a goal to freely share what I learn with others, hoping to inspire and help fellow developers on their journeys.
@@ -19,9 +29,6 @@ If my work or mindset resonates with you, I’d really appreciate your support o
 
 📫 You can find me on Discord as vahrezz
 ---
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/817725791177408513?showDisplayName=true&theme=dark&bg=1A1C1F&borderRadius=10px&ignoreAppId=817725791177408513&idleMessage=Im%20coding%20)](https://discord.com/users/817725791177408513)
-
 
 ### 🧰 My Skills and Tools
 
