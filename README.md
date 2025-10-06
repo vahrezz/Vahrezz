@@ -1,5 +1,8 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0a0a0a,100:00211a" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Vahrezz&fontAlign=50&fontAlignY=40&color=0:00110d,100:003f2d&fontColor=00FF99&animation=twinkling&fontSize=60&desc=🐍%20Python%20%26%20Application%20Developer&descAlign=50&descAlignY=70" alt="Vahrezz Banner" />
+</p>
+
 
 
 
