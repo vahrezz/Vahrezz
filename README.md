@@ -20,6 +20,9 @@ If my work or mindset resonates with you, I’d really appreciate your support o
 📫 You can find me on Discord as vahrezz
 ---
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/817725791177408513?showDisplayName=true&theme=dark&bg=1A1C1F&borderRadius=10px&ignoreAppId=817725791177408513&idleMessage=Im%20coding%20)](https://discord.com/users/817725791177408513)
+
+
 ### 🧰 My Skills and Tools
 
 <p align="center">
