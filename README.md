@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Vahrezz&amp;fontSize=60&amp;fontAlign=50&amp;fontAlignY=40&amp;color=0:00ff99,100:00ccff&amp;fontColor=E6FFF2&amp;animation=twinkling&amp;desc=Python%20%26%20Application%20Developer&amp;descAlign=50&amp;descAlignY=70" alt="Vahrezz Banner Gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Vahrezz&amp;fontSize=60&amp;fontAlign=50&amp;fontAlignY=40&amp;color=0:00ff99,100:00ccff&amp;fontColor=E6FFF2&amp;animation=twinkling&amp;desc=Python%20Application%20Developer&amp;descAlign=50&amp;descAlignY=70" alt="Vahrezz Banner Gradient" />
 </p>
 
 
