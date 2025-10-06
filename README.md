@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vahrezz</h1>
+<h1 align="center">Hi 👋, I'm Amirali</h1>
 <h3 align="center">🐍 Python Developer | Open Source Enthusiast | Lifelong Learner</h3>
 
 ---
 
 ### 🧠 About Me
 
-I'm AmirAli, though most people know me as Vahrezz — a passionate Python developer based in Iran. I’ve always believed that knowledge grows when shared, so I make it a goal to freely share what I learn with others, hoping to inspire and help fellow developers on their journeys.
+I'm Amirali, though most people know me as Vahrezz — a passionate Python developer based in Iran. I’ve always believed that knowledge grows when shared, so I make it a goal to freely share what I learn with others, hoping to inspire and help fellow developers on their journeys.
 
 My adventure in programming began about five years ago, starting with Scratch, then exploring game development in Unity. Eventually, I realized my real passion lies in building practical and impactful applications that solve real-world problems. That realization led me to Python, and for the past two years, I’ve been working with it professionally — a decision I’m truly proud of.
 
@@ -21,7 +21,7 @@ If my work or mindset resonates with you, I’d really appreciate your support o
 ### 🧰 My Skills and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,discord,bots,git,github,vscode,linux,windows" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,discord,bots,git,github,vscode,linux,windows,kali," /><br/>
   <img src="https://skillicons.dev/icons?i=flask,fastapi,sqlite,mysql,docker,postman" />
 </p>
 
