@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=%20Vahrezz%20&fontSize=65&fontAlign=50&fontAlignY=38&fontColor=00FFB2&color=0:00110d,50:003f2d,100:00ccff&stroke=00FF99&strokeWidth=1&animation=fadeIn&desc=%20Python%20Developer%20%7C%20Open%20Source%20%7C%20Enthusiast%20Bot%20Lifelong%20Learner&descAlign=50&descAlignY=70&fontFamily=monospace" alt="Vahrezz Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=%20Vahrezz%20&fontSize=65&fontAlign=50&fontAlignY=38&fontColor=00FFB2&color=0:00110d,50:003f2d,100:00ccff&stroke=00FF99&strokeWidth=1&animation=fadeIn&desc=%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast%207C%20%20%20Lifelong%20Learner&descAlign=50&descAlignY=70&fontFamily=monospace" alt="Vahrezz Banner" />
 </p>
 
 
