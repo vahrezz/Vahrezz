@@ -62,13 +62,24 @@ If my work or mindset resonates with you, I’d really appreciate your support o
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://discordapp.com/users/817725791177408513" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%2300ff99?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/mr.vahrez/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  <!-- Discord Presence (Live Status) -->
+  <a href="https://discord.com/users/817725791177408513" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/817725791177408513?theme=dark&bg=0a0a0a&animated=true&hideDiscrim=true&borderRadius=15px&idleMessage=💤%20Chilling%20on%20Discord&accentColor=00FF99" alt="Vahrezz Discord Presence" />
   </a>
 </p>
+
+<p align="center">
+  <!-- Discord Badge -->
+  <a href="https://discord.com/users/817725791177408513" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-00ff99?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  
+  <!-- Instagram Badge -->
+  <a href="https://www.instagram.com/mr.vahrez/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
 
 
 ---
