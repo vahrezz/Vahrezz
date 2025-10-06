@@ -28,11 +28,11 @@
 
 ###  About Me
 
-I'm Amirali, though most people know me as Vahrezz — a passionate Python developer based in Iran. I’ve always believed that knowledge grows when shared, so I make it a goal to freely share what I learn with others, hoping to inspire and help fellow developers on their journeys.
+I'm Amirali, though most people know me as Vahrezz  a passionate Python developer based in Iran. I’ve always believed that knowledge grows when shared, so I make it a goal to freely share what I learn with others, hoping to inspire and help fellow developers on their journeys.
 
-My adventure in programming began about five years ago, starting with Scratch, then exploring game development in Unity. Eventually, I realized my real passion lies in building practical and impactful applications that solve real-world problems. That realization led me to Python, and for the past two years, I’ve been working with it professionally — a decision I’m truly proud of.
+My adventure in programming began about five years ago, starting with Scratch, then exploring game development in Unity. Eventually, I realized my real passion lies in building practical and impactful applications that solve real world problems. That realization led me to Python, and for the past two years, I’ve been working with it professionally  a decision I’m truly proud of.
 
-I love learning new technologies, exploring modern features, and staying up to date with the fast-paced tech world. Continuous improvement is my philosophy — I believe every new tool or concept learned adds another layer to what I can create.
+I love learning new technologies, exploring modern features, and staying up to date with the fast-paced tech world. Continuous improvement is my philosophy  I believe every new tool or concept learned adds another layer to what I can create.
 
 So far, I’ve developed several personal projects (which I’ll be sharing here soon) and also built tools and apps for small startups and individuals. Currently, I’m working on a Discord bot, which I’m very excited about.
 
