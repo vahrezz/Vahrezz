@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Vahrezz&fontAlign=50&fontAlignY=40&color=0:0a0a0a,100:00211a&fontColor=00FF99&animation=fadeIn&desc=Python%20Developer%20%7C%20Discord%20Bot%20Creator&descAlign=50&descAlignY=65" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Amirali</h1>
 <h3 align="center">🐍 Python Developer | Open Source Enthusiast | Lifelong Learner</h3>
 
