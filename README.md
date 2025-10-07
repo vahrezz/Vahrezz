@@ -28,7 +28,7 @@
 
 ###  About Me
 
-I'm Amirali, though most people know me as Vahrezz  a passionate Python developer based in Iran. I’ve always believed that knowledge grows when shared, so I make it a goal to freely share what I learn with others, hoping to inspire and help fellow developers on their journeys.
+I'm Vahrezz, a passionate Python developer based in Iran. I’ve always believed that knowledge grows when shared, so I make it a goal to freely share what I learn with others, hoping to inspire and help fellow developers on their journeys.
 
 My adventure in programming began about five years ago, starting with Scratch, then exploring game development in Unity. Eventually, I realized my real passion lies in building practical and impactful applications that solve real world problems. That realization led me to Python, and for the past two years, I’ve been working with it professionally  a decision I’m truly proud of.
 
